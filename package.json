@@ -10,6 +10,15 @@
     "type": "git",
     "url": "commerce_test"
   },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "4.17.1",
+    "fs": "0.0.1-security",
+    "node-rest-client": "^3.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "xml2js": "^0.4.19"
+  },
   "keywords": [
     "commerce_test"
   ],
